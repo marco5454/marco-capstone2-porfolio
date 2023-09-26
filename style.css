@@ -472,7 +472,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .header-wrapper {
     width: 100%;
     height: 100vh;
@@ -528,7 +528,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 742px) {
+@media (max-width: 742px) {
   .about-wrapper {
     border: 1px solid white;
     border-radius: 10px;
@@ -570,7 +570,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 692px) {
+@media (max-width: 692px) {
   .about-wrapper {
     border: 1px solid white;
     border-radius: 10px;
@@ -612,7 +612,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 654px) {
+@media (max-width: 654px) {
   .intro h1 {
     font-size: 1.5rem;
   }
@@ -688,7 +688,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 530px) {
+@media (max-width: 530px) {
   .about-wrapper {
     border: 1px solid white;
     border-radius: 10px;
@@ -747,7 +747,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 488px) {
+@media (max-width: 488px) {
   .about-wrapper {
     border: 1px solid white;
     border-radius: 10px;
@@ -841,7 +841,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media (max-width: 375px) {
   .about-wrapper {
     border: 1px solid white;
     border-radius: 10px;
